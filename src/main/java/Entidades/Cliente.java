@@ -9,5 +9,6 @@ package Entidades;
  * @author julie
  */
 public class Cliente {
+    private String nombre;
     
 }
